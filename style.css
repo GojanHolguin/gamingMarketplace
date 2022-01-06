@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #000;
+}
+
+body{
+    width: 100vw;
+    height: 100%;
+}
+
+header{
+    background-color: #00284d;
+    padding: 3%;
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+}
+
+#main{
+    background-color: #fff;
+    padding: 45px 5%;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.6) 10px 10px 5px;
+    max-height: 300px;
+    min-height: 250px;
+}
+
+#img-card{
+    object-fit: cover;
+    height: 150px;
+}
+
+#title-card{
+    margin: 10px;
+    color: rgb(1, 0, 59);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#p-card{
+    font-size: 20px;
+    margin: 7px;
+    font-weight: 400;
+}
+
+.btn-card{
+    margin: 5px;
+    background-color: rgb(47, 4, 88);
+    color: aliceblue;
+    font-weight: 400;
+}
+
+.btn-card:hover{
+    background-color: #5c1f96;
+    color: #ffffff;
+}
+
+.fas{
+    margin: 3px;
+    padding: 2px;
+    font-size: 15px;
+    color: #fff;
+}
+
+.bttn{
+    border-radius: 10px;
+    padding: 5px;
+    transition: all ease-in-out 0.35s;
+    border: #000 1.5px solid;
+}
+
+.btn-delete{
+    background-color: #680000;
+}
+
+.btn-add{
+    background-color: #170068;
+}
+
+.btn-delete:hover{
+    background-color: #960101;
+}
+
+.btn-add:hover{
+    background-color: #000f9b;
+}
+
+.btn-empty-cart{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #680000;
+    color: #fff;
+}
+
+.btn-empty-cart:hover{
+    background-color: #960101;
+}

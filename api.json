@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "price": 150,
+        "title": "Halo CE",
+        "thumbnailUrl": "https://www.somosxbox.com/wp-content/uploads/2017/03/halo-combat-evolved-principal.jpg"
+    },
+    {
+        "id": 2,
+        "price": 160,
+        "title": "Halo 2",
+        "thumbnailUrl": "https://i.blogs.es/4b30ce/halo-2/1366_2000.jpeg"
+    },
+    {
+        "id": 3,
+        "price": 140,
+        "title": "Halo Wars",
+        "thumbnailUrl": "https://generacionxbox.com/wp-content/uploads/2020/02/Halo-Wars.jpg"
+    },
+    {
+        "id": 4,
+        "price": 180,
+        "title": "Age Of Empires 3",
+        "thumbnailUrl": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/61/2020/10/AoE-III-Definitive-Edition.jpg"
+    },
+    {
+        "id": 5,
+        "price": 150,
+        "title": "Age Of Mythology",
+        "thumbnailUrl": "https://i.blogs.es/0a9d42/ageof1/1366_2000.jpg"
+    },
+    {
+        "id": 6,
+        "price": 230,
+        "title": "Age Of Empires 2",
+        "thumbnailUrl": "https://generacionxbox.com/wp-content/uploads/2019/03/age-of-empires-II-generacion-xbox-2.jpg"
+    },
+    {
+        "id": 7,
+        "price": 200,
+        "title": "Warcraft Saga",
+        "thumbnailUrl": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/sl/SL6ES5LLIKYB1589825040021.jpg"
+    },
+    {
+        "id": 8,
+        "price": 140,
+        "title": "GTA San Andreas",
+        "thumbnailUrl": "https://phantom-marca.unidadeditorial.es/b021dfcb4836c5b5cbfeb4c1d83bb6a7/resize/1320/f/jpg/assets/multimedia/imagenes/2021/03/07/16150930971837.jpg"
+    },
+    {
+        "id": 9,
+        "price": 100,
+        "title": "Counter Strike",
+        "thumbnailUrl": "https://www.misternoob.com/wp-content/uploads/2020/06/counter-strike-1.6.jpg"
+    },
+    {
+        "id": 10,
+        "price": 120,
+        "title": "Alien VS Predator",
+        "thumbnailUrl": "https://s1.gaming-cdn.com/images/products/318/orig/juego-steam-aliens-vs-predator-cover.jpg"
+    },
+    {
+        "id": 11,
+        "price": 120,
+        "title": "Dead Space",
+        "thumbnailUrl": "https://media.revistagq.com/photos/6103d064170e728db45e75f2/3:2/w_2429,h_1619,c_limit/dead-space.jpeg"
+    },
+    {
+        "id": 12,
+        "price": 120,
+        "title": "Hit And Run",
+        "thumbnailUrl": "https://as.com/meristation/imagenes/2021/08/21/noticias/1629539539_747899_1629539605_noticia_normal.jpg"
+    }
+]
